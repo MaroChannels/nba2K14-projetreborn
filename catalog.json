@@ -10,17 +10,11 @@
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/nbaball.iff",
       "description": "Ballon Wilson - vert",
       "version": "1.1"
-    }
-  ]
-}
-
-{
-  "updated_at": "2025-08-30T00:00:00Z",
-  "items": [
+    },
     {
       "id": "game-data-kobe",
       "name": "Game Data Kobe",
-      "category": "game data",
+      "category": "gamedata",
       "filename": "gamedata.iff",
       "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/gamedata.jpg",
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/gamedata.iff",
@@ -29,4 +23,3 @@
     }
   ]
 }
-
