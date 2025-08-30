@@ -22,8 +22,8 @@
       "name": "Game Data Kobe",
       "category": "game data",
       "filename": "gamedata.iff",
-      "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/nbaball.png",
-      "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/nbaball.iff",
+      "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/gamedata.jpg",
+      "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/gamedata.iff",
       "description": "Game data kobe logo",
       "version": "1.1"
     }
