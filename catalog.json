@@ -2,13 +2,13 @@
   "updated_at": "2025-08-30T00:00:00Z",
   "items": [
     {
-      "id": "ball-classic",
-      "name": "Ballon Classique HD",
+      "id": "ball-wilson-vert",
+      "name": "Ballon Wilson",
       "category": "ballon",
       "filename": "nbaball.iff",
       "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/nbaball.png",
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/nbaball.iff",
-      "description": "Texture ballon réaliste haute résolution",
+      "description": "Ballon Wilson-vert",
       "version": "1.0"
     }
   ]
