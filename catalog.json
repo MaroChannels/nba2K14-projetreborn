@@ -1,0 +1,25 @@
+{
+  "updated_at": "2025-08-30T00:00:00Z",
+  "items": [
+    {
+      "id": "f614-night",
+      "name": "Terrain Blacktop Nuit",
+      "category": "terrain",
+      "filename": "f614.iff",
+      "image_url": "https://raw.githubusercontent.com/<TON_USER>/reborn-mods/main/screens/f614-night.png",
+      "file_url": "https://raw.githubusercontent.com/<TON_USER>/reborn-mods/main/files/f614-night.iff",
+      "description": "Un terrain sombre style streetball de nuit",
+      "version": "1.0"
+    },
+    {
+      "id": "ball-classic",
+      "name": "Ballon Classique HD",
+      "category": "ballon",
+      "filename": "nbaball.iff",
+      "image_url": "https://raw.githubusercontent.com/<TON_USER>/reborn-mods/main/screens/nbaball.png",
+      "file_url": "https://raw.githubusercontent.com/<TON_USER>/reborn-mods/main/files/nbaball.iff",
+      "description": "Texture ballon réaliste haute résolution",
+      "version": "1.0"
+    }
+  ]
+}
