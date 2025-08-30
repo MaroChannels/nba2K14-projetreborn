@@ -20,6 +20,16 @@
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/gamedata.iff",
       "description": "Game data kobe logo",
       "version": "1.1"
+    },
+    {
+      "id": "outfit-balenciaga",
+      "name": "Tenue F*uck Balenciaga",
+      "category": "outfit",
+      "filename": "global.iff",
+      "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/tenue.png",
+      "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/global.iff",
+      "description": "Outfit f*ck balenciaga",
+      "version": "1.1"
     }
   ]
 }
