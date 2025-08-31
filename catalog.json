@@ -50,6 +50,16 @@
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v2/nbaball.iff",
       "description": "Ballon",
       "version": "1.1"
+    },
+    {
+      "id": "face-ironman",
+      "name": "Face IronMan",
+      "category": "face",
+      "filename": "png9999.iff",
+      "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/screens/photo_2025-04-26_19-08-09.jpg",
+      "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/files/png9999.iff",
+      "description": "La tête de Iron Man",
+      "version": "1.1"
     }
   ]
 }
