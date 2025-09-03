@@ -80,6 +80,16 @@
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v2/f614.iff",
       "description": "Terrain",
       "version": "1.1"
+    },
+     {
+      "id": "ballon-world",
+      "name": "Ballon World",
+      "category": "ballon",
+      "filename": "nbaball.iff",
+      "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/Capture_decran_2025-04-28_180111.png",
+      "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/nbaball.iff",
+      "description": "Ballon World",
+      "version": "1.1"
     }
   ]
 }
