@@ -93,12 +93,12 @@
     },
       {
       "id": "gamedata+v3",
-      "name": "Game Data Clound",
+      "name": "Game Data Cloud",
       "category": "gamedata",
       "filename": "gamedata.iff",
       "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/Capture_decran_2025-04-28_180704.png",
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/gamedata.iff",
-      "description": "Game Data Clound",
+      "description": "Game Data Cloud",
       "version": "1.1"
     }
   ]
