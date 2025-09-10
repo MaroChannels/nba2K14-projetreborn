@@ -81,7 +81,7 @@
       "description": "Terrain",
       "version": "1.1"
     },
-     {
+      {
       "id": "ballon-world",
       "name": "Ballon World",
       "category": "ballon",
@@ -91,14 +91,14 @@
       "description": "Ballon World",
       "version": "1.1"
     },
-    {
-      "id": "gamedatav3",
-      "name": "gamedata",
+      {
+      "id": "gamedata+v3",
+      "name": "Game Data Clound",
       "category": "gamedata",
       "filename": "gamedata.iff",
       "image_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/Capture_decran_2025-04-28_180704.png",
       "file_url": "https://raw.githubusercontent.com/MaroChannels/nba2K14-projetreborn/main/v3/gamedata.iff",
-      "description": "Game Data",
+      "description": "Game Data Clound",
       "version": "1.1"
     }
   ]
